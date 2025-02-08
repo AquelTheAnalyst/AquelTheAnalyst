@@ -1,4 +1,4 @@
-👋 Hey there, I'm Quell!
+👋 Hey there, I'm Aquel!
 💻 Aspiring Salesforce Developer & Admin | 🎭 Improv Enthusiast | 🚀 Lifelong Learner
 
 I'm passionate about Salesforce administration and development, constantly expanding my skills through hands-on projects and certifications. My goal is to leverage automation and cloud solutions to improve business processes.
