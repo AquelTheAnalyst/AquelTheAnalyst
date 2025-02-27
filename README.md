@@ -1,7 +1,7 @@
 # Hi, I'm Aquel Daley 👋
 
 ## 💡 About Me
-I'm a **Power BI/SQL BI Developer** with over **7 years of experience** in data analytics and business intelligence. My expertise spans data cleaning, analysis, visualization, and performance tuning. I thrive on transforming raw data into meaningful insights that drive business decisions.
+I'm a **Power BI/SQL BI Developer** in data analytics and business intelligence. My expertise spans data cleaning, analysis, visualization, and performance tuning. I thrive on transforming raw data into meaningful insights that drive business decisions.
 
 ## 🔧 Skills & Technologies
 - **Databases & SQL:** SQL Server, MySQL, PostgreSQL
